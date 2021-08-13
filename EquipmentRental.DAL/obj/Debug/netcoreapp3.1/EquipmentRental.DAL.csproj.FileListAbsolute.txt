@@ -1,0 +1,12 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.csprojAssemblyReference.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.runtimeconfig.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.runtimeconfig.dev.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.DAL\obj\Debug\netcoreapp3.1\EquipmentRental.DAL.genruntimeconfig.cache

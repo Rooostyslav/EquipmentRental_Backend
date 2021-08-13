@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/0G1QCYnPAHinkznMMqbGuNeAi+NIKCgE+FFyFY3RJQ6qTzAIXGKlAYkBNGoli30ZJp+xODXphstGyNVDfCjQ==",
+  "success": true,
+  "projectFilePath": "E:\\ХНУРЕ\\ForSales\\АПЗ\\Projects\\EquipmentRental_Project\\EquipmentRental\\EquipmentRental.Auth.Common\\EquipmentRental.Auth.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

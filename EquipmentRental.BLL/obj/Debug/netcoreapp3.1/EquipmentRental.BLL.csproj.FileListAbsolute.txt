@@ -1,0 +1,12 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.csprojAssemblyReference.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\bin\Debug\netcoreapp3.1\EquipmentRental.BLL.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\bin\Debug\netcoreapp3.1\EquipmentRental.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\bin\Debug\netcoreapp3.1\EquipmentRental.BLL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\bin\Debug\netcoreapp3.1\EquipmentRental.DAL.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.csproj.CopyComplete
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.BLL\obj\Debug\netcoreapp3.1\EquipmentRental.BLL.pdb

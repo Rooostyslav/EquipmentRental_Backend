@@ -1,0 +1,9 @@
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\bin\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.deps.json
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\bin\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\bin\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.pdb
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.csprojAssemblyReference.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.AssemblyInfoInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.AssemblyInfo.cs
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.dll
+E:\ХНУРЕ\ForSales\АПЗ\Projects\EquipmentRental_Project\EquipmentRental\EquipmentRental.Auth.Common\obj\Debug\netcoreapp3.1\EquipmentRental.Auth.Common.pdb
